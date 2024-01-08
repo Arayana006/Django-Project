@@ -2,7 +2,6 @@
 
 ## Run the following commands to run the project
 
-
 ##### 1) Clone the repository
 
     git clone https://github.com/Arayana006/Marketplace
